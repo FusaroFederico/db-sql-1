@@ -1,0 +1,40 @@
+|id |name                                                                                              |level     |
+|---|--------------------------------------------------------------------------------------------------|----------|
+|5  |Corso di Laurea Magistrale in Biologia evoluzionistica                                            |magistrale|
+|6  |Corso di Laurea Magistrale in Biologia marina                                                     |magistrale|
+|7  |Corso di Laurea Magistrale in Biologia molecolare                                                 |magistrale|
+|8  |Corso di Laurea Magistrale in Biologia sanitaria                                                  |magistrale|
+|9  |Corso di Laurea Magistrale in Biotecnologie industriali                                           |magistrale|
+|10 |Corso di Laurea Magistrale in Scienze della natura                                                |magistrale|
+|13 |Corso di Laurea Magistrale in Astronomia                                                          |magistrale|
+|14 |Corso di Laurea Magistrale in Fisica                                                              |magistrale|
+|18 |Corso di Laurea Magistrale in Ingegneria Civile                                                   |magistrale|
+|23 |Corso di Laurea Magistrale in Bioingegneria                                                       |magistrale|
+|24 |Corso di Laurea Magistrale in Ingegneria dell'Automazione                                         |magistrale|
+|25 |Corso di Laurea Magistrale in Ingegneria Elettronica                                              |magistrale|
+|26 |Corso di Laurea Magistrale in Ingegneria Informatica                                              |magistrale|
+|27 |Corso di Laurea Magistrale in Cybersecurity                                                       |magistrale|
+|30 |Corso di Laurea Magistrale in Matematica                                                          |magistrale|
+|31 |Corso di Laurea Magistrale in Informatica                                                         |magistrale|
+|36 |Corso di Laurea Magistrale in Scienze delle Professioni Sanitarie                                 |magistrale|
+|37 |Corso di Laurea Magistrale in Scienze e Tecniche dell'Attività Motoria Preventiva e Adattata      |magistrale|
+|44 |Corso di Laurea Magistrale in Odontoiatria e Protesi Dentaria                                     |magistrale|
+|49 |Corso di Laurea Magistrale in Chimica                                                             |magistrale|
+|50 |Corso di Laurea Magistrale in Chimica Industriale                                                 |magistrale|
+|51 |Corso di Laurea Magistrale in Scienza dei Materiali                                               |magistrale|
+|52 |Corso di Laurea Magistrale in Scienze e Tecnologie per l'Ambiente                                 |magistrale|
+|54 |Corso di Laurea Magistrale in Business Administration                                             |magistrale|
+|55 |Corso di Laurea Magistrale in Economics and Finance                                               |magistrale|
+|56 |Corso di Laurea Magistrale in Entrepreneurship and Innovation                                     |magistrale|
+|57 |Corso di Laurea Magistrale in Economia e Diritto                                                  |magistrale|
+|61 |Corso di Laurea Magistrale in European and Global Studies                                         |magistrale|
+|62 |Corso di Laurea Magistrale in Human Rights and Multi-Level Governance                             |magistrale|
+|63 |Corso di Laurea Magistrale in Innovazione e Servizio Sociale                                      |magistrale|
+|64 |Corso di Laurea Magistrale in Relazioni Internazionali e Diplomazia                               |magistrale|
+|65 |Corso di Laurea Magistrale in Scienze del Governo e Politiche Pubbliche                           |magistrale|
+|68 |Corso di Laurea Magistrale in Scienze Statistiche                                                 |magistrale|
+|71 |Corso di Laurea Magistrale in Filologia Moderna                                                   |magistrale|
+|72 |Corso di Laurea Magistrale in Lingue e Letterature Europee e Americane                            |magistrale|
+|73 |Corso di Laurea Magistrale in Lingue Moderne per la Comunicazione e la Cooperazione Internazionale|magistrale|
+|74 |Corso di Laurea Magistrale in Linguistica                                                         |magistrale|
+|75 |Corso di Laurea Magistrale in Strategie di Comunicazione                                          |magistrale|

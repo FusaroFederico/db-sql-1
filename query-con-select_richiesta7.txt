@@ -1,0 +1,3 @@
+|total_departments_number|
+|------------------------|
+|12                      |
